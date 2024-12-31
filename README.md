@@ -6,7 +6,7 @@
 
 <h1>  | AI, ML, DL & Data Science Enthusiast|Python | Research Enthusiast. </h1>
 <p>
-🌱 I’m currently learning Machine Learning & Deep Learning
+🌱 I’m currently learning Machine Learning & Deep Learning <br>
 📫 How to reach me ***anjon.vumije1998@gmail.com***
   </p>
 
