@@ -2,13 +2,14 @@
 <h1> Welcome to My Coding Playground </h1>
 <body style="background-color:powderblue;">
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-- 👀 Data Science
+<h1> </h1>
+<p>- 👀 Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  </p>
+
+
 </body>
 
 
