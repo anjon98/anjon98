@@ -2,8 +2,8 @@
 <h1> Welcome to My Coding Playground </h1>
 <body style="background-color:powderblue;">
 
-<h1> </h1>
-<p>- 👀 Data Science
+<h1>  | AI, ML, DL & Data Science Enthusiast|Python | Research Enthusiast. </h1>
+<p>- 👀 I'm searching Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
