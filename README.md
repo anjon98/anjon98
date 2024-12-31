@@ -1,12 +1,13 @@
-<h1> 👋 Hi, I’m Anjon </h1>
-<h1> Welcome to My Coding Playground </h1>
+
 <body style="background-color:powderblue;">
 
+<h1> 👋 Hi, I’m Anjon </h1>
+<h1> Welcome to My Coding Playground </h1>
+
 <h1>  | AI, ML, DL & Data Science Enthusiast|Python | Research Enthusiast. </h1>
-<p>- 👀 I'm searching Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p>
+🌱 I’m currently learning Machine Learning & Deep Learning
+📫 How to reach me ***anjon.vumije1998@gmail.com***
   </p>
 
 
