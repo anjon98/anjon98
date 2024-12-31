@@ -2,7 +2,7 @@
 <body style="background-color:powderblue;">
 
 <h1> 👋 Hi, I’m Anjon </h1>
-<h1> Welcome to My Coding Playground </h1>
+<h1> Welcome to Bhumij's House </h1>
 
 <h1>  | AI, ML, DL & Data Science Enthusiast|Python | Research Enthusiast. </h1>
 <p>
