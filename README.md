@@ -11,7 +11,7 @@
   </p>
 
 <h1>Social Media</h1> <br>
-
+<a href="https://www.linkedin.com/in/anjon-vumije-2331561a2/"> LinkdIn </a>
 
 
 <h1>Tech Stack</h1> <br>
