@@ -4,7 +4,7 @@
 <h1> 👋 Hi, I’m Anjon </h1>
 <h1> Welcome to Bhumij's House </h1>
 <h1><b> About Me</b> </h1>
-<h1>  | AI, ML, DL & Data Science Enthusiast| Python | Research Enthusiast. </h1>
+<h1>  || Exploring Research Opportunities in Materials Science Involving AI, Deep Learning & Machine Learning Applications || </h1>
 <p>
 🌱 I’m currently learning Machine Learning & Deep Learning <br>
 📫 How to reach me ***anjon.vumije1998@gmail.com***
